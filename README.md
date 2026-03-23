@@ -26,7 +26,7 @@ customers are most likely to leave next.
 
 ## Project Architecture
 ```
-Raw Dataset (Kaggle)
+Raw Dataset
       ↓
 Excel (Data Preparation)
       ↓
