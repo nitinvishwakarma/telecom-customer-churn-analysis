@@ -166,19 +166,19 @@ If the company spends $100 per customer on retention offers:
 ## Screenshots
 
 ### Query 1 — Overall Churn Rate
-![Overall Churn Rate](screenshots/churn_rate.jpg)
+![Overall Churn Rate](screenshots/Screenshot%201%20—%20Overall%20Churn%20Rate.jpg)
 
 ### Query 3 — Churn by Internet Service
-![Churn by Internet Service](screenshots/churn_internet.jpg)
+![Churn by Internet Service](screenshots/Screenshot%202%20—%20Churn%20Rate%20by%20Internet%20Service.jpg)
 
 ### Query 4 — Churn by Tenure Group
-![Churn by Tenure](screenshots/churn_tenure.jpg)
+![Churn by Tenure](screenshots/Screenshot%203%20—%20Churn%20by%20Tenure%20Group%20using%20Binning.jpg)
 
 ### Query 5 — High Risk Customer Count
-![High Risk Customers](screenshots/high_risk.jpg)
+![High Risk Customers](screenshots/Screenshot%204%20—%20Total%20High%20Risk%20Customer.jpg)
 
 ### Query 5 — Revenue at Risk
-![Revenue at Risk](screenshots/revenue_risk.jpg)
+![Revenue at Risk](screenshots/Screenshot%205%20—%20Revenue%20at%20Risk.jpg)
 ---
 
 ## SQL Concepts Used
